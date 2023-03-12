@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chamuda</h1>
-<h3 align="center">IT21211850</h3>
 <h3 align="center">A Developing Student from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamuda-arangalla&label=Profile%20views&color=0e75b6&style=flat" alt="chamuda-arangalla" /> </p>
